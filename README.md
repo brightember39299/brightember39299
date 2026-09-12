@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm brightember
 
-<!--
-**brightember39299/brightember39299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out as I go.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring backend stuff and tinkering with small personal projects
+- Learning in public, mostly through trial and error
+- Prefer simple tools that get the job done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- Python
+- JavaScript / Node.js
+- Git & Linux
+- Occasional React when needed
+
+### Projects
+Nothing polished enough to showcase yet — check back later.
+
+---
+
+Always open to interesting ideas or random tech chats.
